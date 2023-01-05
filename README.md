@@ -1,4 +1,4 @@
-# Aerial Drone Imageを用いたセグメンテーションによる識別
+# Aerial Drone Imageを用いたセグメンテーション
 Google Colaboratoryを用いて事前学習を行ったモデルをもとにFine-Tuningを行い、自身の適用したいデータセットに対してセグメンテーションを行う  
 [事前学習に用いたデータセット](https://www.kaggle.com/datasets/bulentsiyah/semantic-drone-dataset)
 
