@@ -13,6 +13,8 @@ Google Colaboratoryを用いて事前学習を行ったモデルをもとにFine
 事前学習済みのモデルを基に対象データでFine-Tuning(再度学習)を行う
 ### Test_FuehukiModel.ipynb
 Fine-Tuningを行ったモデルを用いて対象データに対してのセグメンテーション
+### Model_Optimization_and_Quantization.ipynb
+モデルの推論を高速化するハンズオン
 
 ## 実行方法
 ノートブックのパス設定を任意のパスに書き換えてノートブック上部から実行
