@@ -6,11 +6,13 @@
 - Google Colaboratoryが動作可能なマシン
 - Googleアカウント
 ## 各ノートブックの内容
+### TrainModel.ipynb
+説明
 ### Test_PreTrainModel.ipynb
 [事前学習済みのモデル](https://drive.google.com/file/d/14PtYuFZc-5sB2n9lLUDku8bgyEKSLZG5/view?usp=share_link)を用いて対象データに対してのセグメンテーションを実施する
 ### Fine-Tuning.ipynb
 [事前学習済みのモデル](https://drive.google.com/file/d/14PtYuFZc-5sB2n9lLUDku8bgyEKSLZG5/view?usp=share_link)をベースとして、カスタム画像データを用いてFine-Tuning(転移学習)を行う
-### Test_FuehukiModel.ipynb
+### Test_CustumModel.ipynb
 [Fine-Tuningを行ったモデル](https://drive.google.com/file/d/1JXPHg4brau1T93z79VNr4VqLeCEx2CcW/view?usp=share_link)を用いて対象画像データに対してのセグメンテーションを実施する
 ### Model_Optimization_and_Quantization.ipynb
 モデルの推論をCPU上で高速化するためのテクニック集
